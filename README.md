@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/heytega/challenge-frontendmentor)
-- Live Site URL: [Add live site URL here](https://heytega.github.io/challenge-frontendmentor/)
+- Solution URL: [Repo URL here](https://github.com/heytega/challenge-frontendmentor)
+- Live Site URL: [Live site URL here](https://heytega.github.io/challenge-frontendmentor/)
 
 ### Built with
 
